@@ -4,6 +4,12 @@ This simple application does two things:
 - Kills the PUBG game process
 - Relaunches the game (Optional)
 
+### Download
+
+https://github.com/csehtamas/pubgkiller/releases/download/1.0/PUBGKiller.exe
+
+MD5 checksum: b75a10ece90c096fff008f7883b8276a
+
 ### Why?
 
 PUBG is not a stable game... and no one knows when it will be (if ever). Sometimes it freezes on loading screen and if you are lucky, you can kill the game from task manager and restart again from Steam. If you are unlucky (like some users) you can't even kill the process because you are unable to switch to the task manager for some reason and Alt+F4 doesn't work. If you are one of those, or just tired of killing the game manually and relaunching from Steam, this application is for you.
