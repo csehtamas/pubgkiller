@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### Features
 
-You can use the [editor on GitHub](https://github.com/csehtamas/pubgkiller/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This simple application does two things:
+- Kills the PUBG game process
+- Relaunches the game (Optional)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why?
 
-### Markdown
+PUBG is not a stable game... and no one knows when it will be (if ever). Sometimes it freezes on loading screen and if you are lucky, you can kill the game from task manager and restart again from Steam. If you are unlucky (like some users) you can't even kill the process because you are unable to switch to the task manager for some reason and Alt+F4 doesn't work. If you are one of those, or just tired of killing the game manually and relaunching from Steam, this application is for you.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How it works?
 
-```markdown
-Syntax highlighted code block
+Just run the application, set a custom shortcut if you want (by default it's CTRL+ALT+SHIFT+P) and press Save. If you want to use the relaunch feature, you must browse the Steam.exe. That's all, just click on minimize and it will appear in tray.
 
-# Header 1
-## Header 2
-### Header 3
+### Minimum requirements
+It was only tested on Windows 8.1 but you should be able to run on Windows 7, 8 and 10.
 
-- Bulleted
-- List
+### You like it?
+If so, support me by donating some bitcoins to this wallet:
+1JZMpez466pwXAMdyFyAVZCWW9ifuUccBa
 
-1. Numbered
-2. List
+Or contact me if you do feel the need of donating in your vein but don't have bitcoin.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/csehtamas/pubgkiller/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+csehtamas.dev@gmail.com
